@@ -154,7 +154,7 @@ Customized plan generated with user input.
 
 ## Outcome
 
-By the end of this project, you’ll:
+By the end of this, you’ll:
 
 * Understand how prompt design affects ChatGPT's output
 * Be able to guide ChatGPT through progressively more complex task-handling scenarios
