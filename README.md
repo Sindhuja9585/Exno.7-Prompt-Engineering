@@ -13,7 +13,7 @@ To demonstrate how prompt engineering can be used to create a task management as
 
 # Tools Required:
 
-* ChatGPT API** (or ChatGPT web interface for demo)
+* ChatGPT API (or ChatGPT web interface for demo)
 * Optional: Web-based front-end (HTML + JS) or command-line interface
 * Optional: Backend (Node.js / Python Flask) to process input-output if building a full app
 
