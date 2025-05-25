@@ -1,6 +1,7 @@
 # Exno.7 Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
-# Register no: 212222220047
 # Name: SINDHUJA P
+# Register no: 212222220047
+
 # Aim: 
 To Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 Here’s a complete guide for developing a **prompt-based application using ChatGPT** to organize daily tasks. The project demonstrates how to build a task management assistant by progressively refining prompts — from simple text inputs to more advanced, structured interactions.
